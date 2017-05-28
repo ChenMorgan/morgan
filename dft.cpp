@@ -2,16 +2,8 @@
 //  main.cpp
 //  cv3Sec
 //
-//  Created by 沈贤勤 on 17/5/5.
-//  Copyright © 2017年 沈贤勤. All rights reserved.
-//
-
-//
-//  main.cpp
-//  Camera_Capture
-//
-//  Created by zhoufan on 15/5/24.
-//  Copyright (c) 2015年 zhoufan. All rights reserved.
+//  Created by ChenMorgan on 17/5/5.
+//  Copyright © 2017年 ChenMorgan. All rights reserved.
 //
 
 /**
